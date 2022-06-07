@@ -7,7 +7,7 @@ ctx = canvas.getContext("2d");
 
 carX = 10
 carY = 10
-carW = 100
+carW = 80
 carH = 100
 
 background_image = "parkingLot.jpg";
